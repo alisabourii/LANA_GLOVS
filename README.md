@@ -15,3 +15,6 @@ Project Shematic:
 PinOUT:                                                                                                                                                                                                     
 POT1 = A0                                                                                                                                                                    
 POT2 = A1
+
+SERVO1 = 11                                                                                                                                                                    
+SERVO2 = 12
