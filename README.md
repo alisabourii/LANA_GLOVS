@@ -12,4 +12,13 @@ Project Shematic:
 
 
 
-PinOUT:
+PinOUT:                                                                                                                                                                     Pot1 = A0
+  Pot2 = A1
+  
+  Servo1  = 11
+  Servo2 = 12
+  
+  MPU5060:
+    SCL = A5
+    SDA = A4
+    Int = 2
